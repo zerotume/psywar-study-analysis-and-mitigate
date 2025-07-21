@@ -65,7 +65,7 @@ There are better things to be curious about, trust me.
 
 ---
 
-### Q: okay let's be serious, what exactly your thinking about these contents?
+### Q: okay let's be serious, what's exactly your thinking about these contents?
 A: lol... okay, let's say if the contents are really THAT impacting. Actually, we all know human beings are stepping into a new age, which is triggering an evolution of brain, cognition, intelligence, psychology, and etc. However, numerous trauma patterns in our brains are barring us from that step.
 
 To me, human beings are a very interesting species — the pure existence of humans is already the result of a series of events with a probability of 1 in 10^2,685,000. And such miracles happen every day.
