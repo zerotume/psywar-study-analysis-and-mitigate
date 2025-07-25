@@ -8,6 +8,24 @@ Understanding a system does not imply endorsement of any action derived from it.
 This repo is a structural cognitive framework for analyzing psychological influence patterns across global systems. 
 It contains no incitement to action, no confidential information, and is released solely for the purpose of education, research, and cognitive resilience development.
 
+## License Matrix
+
+| Path / Directory | Default License | Purpose |
+|------------------|-----------------|---------|
+| `/solutions`     | CC BY-SA 4.0    | Design docs & bounty-platform ideas |
+| `/book_study_notes`         | CC BY-SA 4.0    | Reading notes / literature digests |
+| `/diagrams`      | CC BY-SA 4.0    | Drawio / PNG cognitive maps |
+| *(root)* code    | GPL-3.0-or-later| Future source code (currently empty) |
+
+> **Rule of thumb:**  
+> *If a file or sub-folder contains its own `LICENSE`, that file/folder’s license overrides the default above.*
+
+---
+
+## Contributing (Are you sure???)
+
+See [`CONTRIBUTING.md`](CONTRIBUTING.md) for details on how to submit PRs under the correct license.
+
 ---
 
 ## Q&A
