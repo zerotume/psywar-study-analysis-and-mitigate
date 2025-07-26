@@ -1,7 +1,14 @@
 # Important Humans' Names
 
 ## Paul Linebarger (aka Cordwainer Smith)
+### his dad was a close personal adviser to Sun Yat-Sen (cough)
+#### Sun (almost) became his godfather????
 ### "Psychological Warfare"
+### Many readers really believed he's covert agent from the future; expresses a good skill for a propagandist
+
+## Gary Wolfe
+### Literary critic, intense on Cordwainer Smith's books
+### gave the ideas about how Cordwainer's books show his propaganda skills
 
 ## Peter Pomerantsev
 ### "Post-Modern Politic(an)s"
