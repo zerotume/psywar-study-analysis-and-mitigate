@@ -5,10 +5,46 @@
 #### Sun (almost) became his godfather????
 ### "Psychological Warfare"
 ### Many readers really believed he's covert agent from the future; expresses a good skill for a propagandist
+### childhood sharp political eye - he figured out the "impressive ceremony" when Calvin Coolidge took oath
+### important view: "psychological warfare is good for everybody"
+### "the affirmation of human community against the national divisions" - propanganda is "affirmation of human community"
+### book "Scanners Live in Vain" - about tough process of gov reform
+> - "a psyop should be like the cranching wire" sounds like my view of "using cognitive biases to fight against cognitive biases" -> it's actually enlightening a human being's safe sense of "unknown" so that the "curiousity/exploring part" is triggered instead of the "flight/avoiding part"
+
+```
+These sci-fi novel writers are really fond of propaganda, or vise versa? lmao.
+```
 
 ## Gary Wolfe
 ### Literary critic, intense on Cordwainer Smith's books
 ### gave the ideas about how Cordwainer's books show his propaganda skills
+
+## Frederik Pohl
+### Admirer of "Cordwainer Smith"
+### Author of "The Space Merchants"
+
+## Rose Macaulay
+### Worked for British Propaganda Dept during WW1
+### novel "What Not"
+
+## Alice Sheldon
+### CIA analyst in the 1950s
+### alias James Tiptree Jr., novel "The Girl Who Was Plugged In"
+
+## Larry Niven
+### novel "Ringworld"
+### consulted with DoD in 1980s (about future wars)
+
+## John Campbell
+### Editor of Astounding Science Fiction
+### bashing communism and studnent protest movements in 1960s
+
+## Alec Navala-Lee
+### article "Astounding: John W. Campbell, Issac Asimov, Robert A. Heinlein … and the Golden Age of Science Fiction"
+
+## Ruth Emrys Gordon
+### researcher of online disinformation (but for the gov lmao)
+### Alias "Ruthanna Emrys", book "A Half-Built Garden"
 
 ## Peter Pomerantsev
 ### "Post-Modern Politic(an)s"
