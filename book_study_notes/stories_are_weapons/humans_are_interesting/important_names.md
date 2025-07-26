@@ -67,3 +67,20 @@ https://www.npr.org/2019/04/24/716374421/fact-check-russian-interference-went-fa
 - Book about Edward Bernays above
 ### article: "Watch Out for the Top Banana"
 
+## Robert McClure
+### headed the Office of Psychological Warfare in 1940s (or 1951?)
+
+## Heber Blankenhorn
+### built PSYWAR framework to fight the Central Powers in the Great War
+= Blankenhorn served as captain of the Psychologic Subsection (a.k.a. "Propaganda Subsection") (February July 1918) in Military Intelligence Branch and then Propaganda Section (August–November 1918) during World War I. They had no directions or instructions. He led by improvisation 28 men to produce three million copies of 21 separate leaflets. He returned for similar service during World War II.
+
+## Scott Anderson
+### book: The Quiet Americans: Four CIA Spies at the Dawn of the Cold War
+
+## Rufus Phillips
+### Designed crash courses in psyops for the South Vietnamese military
+### refer "Psychological Warfare" as "bible on the topic"
+
+## Edward Lansdale
+### Rufus Phillips' "boss"
+### handed Rufus Phillips a copy of "Psychological Warfare"
