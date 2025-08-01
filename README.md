@@ -10,11 +10,17 @@ It contains no incitement to action, no confidential information, and is release
 
 ## License Matrix
 
+### Non-Code Content Licensing:
+
+* Personal / non-profit: see LICENSE-PERSONAL
+* Government / small orgs: CC BY-NC-SA 4.0 (LICENSE-NC-SA)  
+* Commercial entities: no licence granted — contact for permission  
+
 | Path / Directory | Default License | Purpose |
 |------------------|-----------------|---------|
-| `/solutions`     | CC BY-SA 4.0    | Design docs & bounty-platform ideas |
-| `/book_study_notes`         | CC BY-SA 4.0    | Reading notes / literature digests |
-| `/diagrams`      | CC BY-SA 4.0    | Drawio / PNG cognitive maps |
+| `/solutions`     | See "Non-Code Content Licensing" Above    | Design docs & bounty-platform ideas |
+| `/book_study_notes`         | See "Non-Code Content Licensing" Above    | Reading notes / literature digests |
+| `/diagrams`      | See "Non-Code Content Licensing" Above    | Drawio / PNG cognitive maps |
 | *(root)* code    | GPL-3.0-or-later| Future source code (currently empty) |
 
 > **Rule of thumb:**  
@@ -30,7 +36,7 @@ See [`CONTRIBUTING.md`](CONTRIBUTING.md) for details on how to submit PRs under 
 
 ## Q&A
 
-Q: How do I cite the contents here?
+Q: How do I - personal or non-profit - cite the contents here?
 
 A: Well ... No need to ask, just use it. Attribution is cool, but I won't cry if you forget lol.
 
@@ -38,9 +44,32 @@ This isn't about credit — it's about fulfilling my curiousity...
 
 ---
 
+Q: How do we - government or small orgs - cite the contents here?
+
+A: CC BY-NC-SA 4.0, simple!
+
+---
+
+Q: Why do you allow goverment or small orgs to use the content here?
+
+A: Actually, I must confess - if I'm doing a good enough job (I'll try my best), the docs here could be used for either mental wellness or mental manipulation. However, like I mentioned, it's about fulfilling my curiousity, and this curiousity covers the irl scenarios, conducted by "another party of the social contract", or "Imagined community" ... you name it. I hope them could do that for the good of the people - definitely. However, if not ... it's still a good case study (sigh). I'll just be loyal to my curiousity as always ... and wish the best for human beings. 頑張れ/Ganbare!
+
+---
+
+Q: Why so strict to commercial entities?
+
+A: Well because the big coporations has well designed procedures and work flows, to transfer any potential changes to status quo - which would make everything boring. While it's less interesting, it gets helpless to my curiousity. However I'm not that stubborn, anyone could buy me with one of the following things:
+
+* A detailed design blueprint of the "Oracle Machine" cast by Alan Turing. (You just need to come over the halting problem's paradox!)
+* The correct proof of P v. NP problem
+* A set of equipments which allows the civilizatios at similar levels as Planet Solar III, to observe a black hole in a closed distance (closer than Roche limit), w/ doing corresponding experiments. (String theory supporters, sorry or your welcome...? jkjk)
+
+
+---
+
 Q: What if people misuse your theory for real-world psywar?
 
-A: "bro I wrote 1984 didn't mean you to take it as a manual" - George Orwell (No he didn't say it)
+A: "bro I wrote 1984 didn't mean you to take it as a manual" - George Orwell (No he didn't say it). Well, something above coveres this questions.
 
 ---
 
