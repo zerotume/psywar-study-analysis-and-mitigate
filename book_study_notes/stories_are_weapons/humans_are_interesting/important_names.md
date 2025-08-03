@@ -24,22 +24,25 @@
 | chaotic, ever-changing set of commentatiors | "flood the zone" |
 | The British Ministry of Misinformation" | "Fake News" |
 | British accent & sarcastic jokes | using under 6th grade words |
-### "Opinion Analysis -> what people think; Propaganda Analysis - somebody is trying to make them think"
-### "Propaganda must use the language of ..." (I'm trying to find better examples)
-| Language of | Role | Functionalities | examples |
-| ----------- | ----------- | ----------- | ----------- |
-| the mother | Caregiver, nurturer, source of safety and sacrifice | Appeals to the need for protection, belonging, and moral duty | Soviet Union: "The Motherland Calls You" (WW2 Poster) |
-| the school teacher | Educator, moral authority, guide to truth or "truth" (lmao) | Frames the world logically, teaches values as facts | PRC: Public hygiene and Patriotism posters during COVID shutdowns |
-| the lover | Romantic or sexual partner, symbol of emotional reward | Stirs longing or jealousy; can be used to motivate or degrade | Vietnam War "Dear John" letters |
-| the bully | intimidtor, enforcer, public shamer | instills fear, shame, or pressure to confirm | China Cultural Revolution peer-pressures |
-| the policeman | Enforcer of law and daily social orders (yeah I don't want to directly speak out that 3 words) | Uses perceived legitimacy of rule to demand obedience | Singapore: Surveillance state messaging "You're watching TV, and the gov is watching you"
-| the actor | Storyteller, dramatizer, hero figure | Engages emotion via narratives and symbolic actions | "Lenin in 1918" | 
-| the ecclesiastic | Religious guide, moral compass | Appeals to sacrifice, devine mission, righteousness | "CCP is the savior of the people"
-| the buddy | Peer, friend, comrade-in-arms | Builds trust, relatability, shared experience | USA "I want you" posters |
-| the newspaperman | Informative, credile, fact-based, "neutral" in appearance | legitimacy and authority, seemingly objective news, more believable | Nazi Germany "Völkischer Beobachter" |
+
 ```
 D**n, human beings' minds didn't really evolved since then lmao
 ```
+
+### "Opinion Analysis -> what people think; Propaganda Analysis - somebody is trying to make them think"
+### "Propaganda must use the language of ..." (I'm trying to find better examples)
+| Language of        | Role                                                                                           | Functionalities                                                     | examples                                                                                  |
+|--------------------|------------------------------------------------------------------------------------------------|---------------------------------------------------------------------|-------------------------------------------------------------------------------------------|
+| the mother         | Caregiver, nurturer, source of safety and sacrifice                                            | Appeals to the need for protection, belonging, and moral duty       | Soviet Union: "The Motherland Calls You" (WW2 Poster)                                     |
+| the school teacher | Educator, moral authority, guide to truth or "truth" (lmao)                                    | Frames the world logically, teaches values as facts                 | PRC: Public hygiene and Patriotism posters during COVID shutdowns                         |
+| the lover          | Romantic or sexual partner, symbol of emotional reward                                         | Stirs longing or jealousy; can be used to motivate or degrade       | US: Vietnam War "Dear John" letters                                                       |
+| the bully          | intimidtor, enforcer, public shamer                                                            | instills fear, shame, or pressure to confirm                        | PRC: Cultural Revolution peer-pressures                                                   |
+| the policeman      | Enforcer of law and daily social orders (yeah I don't want to directly speak out that 3 words) | Uses perceived legitimacy of rule to demand obedience               | Singapore: Surveillance state messaging "You're watching TV, and the gov is watching you" |
+| the actor          | Storyteller, dramatizer, hero figure                                                           | Engages emotion via narratives and symbolic actions                 | USSR: "Lenin in 1918"                                                                     |
+| the ecclesiastic   | Religious guide, moral compass                                                                 | Appeals to sacrifice, devine mission, righteousness                 | PRC: "CCP is the savior of the people"                                                    |
+| the buddy          | Peer, friend, comrade-in-arms                                                                  | Builds trust, relatability, shared experience                       | USA: "I want you" posters                                                                 |
+| the newspaperman   | Informative, credile, fact-based, "neutral" in appearance                                      | legitimacy and authority, seemingly objective news, more believable | Nazi Germany: "Völkischer Beobachter"                                                     |
+
 
 ```
 These sci-fi novel writers are really fond of propaganda, or vise versa? lmao.
