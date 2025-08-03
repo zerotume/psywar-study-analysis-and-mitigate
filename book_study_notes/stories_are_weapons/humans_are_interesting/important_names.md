@@ -15,6 +15,7 @@
 ### "Telepathy" -> popular metaphor during when ppl thinks govs / super powers controlling ppls minds
 ### psywar tool access - small & portable devices + long time support (radios in WW2, smart phones today, etc.)
 | WW2 Nazi | Today You-know-whos |
+| ----------- | ----------- |
 | Falsified Stations | fake official accounts |
 | defeatist messages | hoax / misleading |
 | ghost programs when official off-air | bot accounts in void of official medias | 
@@ -26,6 +27,7 @@
 ### "Opinion Analysis -> what people think; Propaganda Analysis - somebody is trying to make them think"
 ### "Propaganda must use the language of ..." (I'm trying to find better examples)
 | Language of | Role | Functionalities | examples |
+| ----------- | ----------- | ----------- | ----------- |
 | the mother | Caregiver, nurturer, source of safety and sacrifice | Appeals to the need for protection, belonging, and moral duty | Soviet Union: "The Motherland Calls You" (WW2 Poster) |
 | the school teacher | Educator, moral authority, guide to truth or "truth" (lmao) | Frames the world logically, teaches values as facts | PRC: Public hygiene and Patriotism posters during COVID shutdowns |
 | the lover | Romantic or sexual partner, symbol of emotional reward | Stirs longing or jealousy; can be used to motivate or degrade | Vietnam War "Dear John" letters |
