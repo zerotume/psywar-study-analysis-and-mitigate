@@ -21,7 +21,20 @@
 | "New British Broadcasting Company" aka fake BBC | "Post" aka fake "Times" |
 | microcelebrities aka influencers | microcelebrities aka influences (yeah same) |
 | chaotic, ever-changing set of commentatiors | "flood the zone" |
-
+| The British Ministry of Misinformation" | "Fake News" |
+| British accent & sarcastic jokes | using under 6th grade words |
+### "Opinion Analysis -> what people think; Propaganda Analysis - somebody is trying to make them think"
+### "Propaganda must use the language of ..." (I'm trying to find better examples)
+| Language of | Role | Functionalities | examples |
+| the mother | Caregiver, nurturer, source of safety and sacrifice | Appeals to the need for protection, belonging, and moral duty | Soviet Union: "The Motherland Calls You" (WW2 Poster) |
+| the school teacher | Educator, moral authority, guide to truth or "truth" (lmao) | Frames the world logically, teaches values as facts | PRC: Public hygiene and Patriotism posters during COVID shutdowns |
+| the lover | Romantic or sexual partner, symbol of emotional reward | Stirs longing or jealousy; can be used to motivate or degrade | Vietnam War "Dear John" letters |
+| the bully | intimidtor, enforcer, public shamer | instills fear, shame, or pressure to confirm | China Cultural Revolution peer-pressures |
+| the policeman | Enforcer of law and daily social orders (yeah I don't want to directly speak out that 3 words) | Uses perceived legitimacy of rule to demand obedience | Singapore: Surveillance state messaging "You're watching TV, and the gov is watching you"
+| the actor | Storyteller, dramatizer, hero figure | Engages emotion via narratives and symbolic actions | "Lenin in 1918" | 
+| the ecclesiastic | Religious guide, moral compass | Appeals to sacrifice, devine mission, righteousness | "CCP is the savior of the people"
+| the buddy | Peer, friend, comrade-in-arms | Builds trust, relatability, shared experience | USA "I want you" posters |
+| the newspaperman | Informative, credile, fact-based, "neutral" in appearance | legitimacy and authority, seemingly objective news, more believable | Nazi Germany "Völkischer Beobachter" |
 ```
 D**n, human beings' minds didn't really evolved since then lmao
 ```
@@ -144,7 +157,13 @@ https://www.npr.org/2019/04/24/716374421/fact-check-russian-interference-went-fa
 ### handed Rufus Phillips a copy of "Psychological Warfare"
 
 ## William Joyce
-### born in US to Irish parents, moved to England, worked wiht British intel during Irish Independence War
-### Joined BUF in 1932
+### born in US to Irish parents, moved to England
+### worked with British intel during Irish Independence War, when he was mid teens (but never been a British subject lmao)
+### Joined BUF in 1932, became leading speaker
+### Sacked from BUF in 1937, founded National Socialist League, feel being detained by British and fled to German in 1939
 ### joined Nazi radio program _Germany Calling_
+- The broadcasts always began with the announcer's words, "Germany calling, Germany calling, Germany calling". -> Typical "Dr Goebbels Style"? 
 ### the last person to be executed for treason in the United Kingdom (lmao sweet karma)
+
+## Oswald Mosley
+### Founded BUF in 1932
