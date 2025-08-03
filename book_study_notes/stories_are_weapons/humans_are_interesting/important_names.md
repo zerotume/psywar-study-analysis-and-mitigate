@@ -10,6 +10,21 @@
 ### "the affirmation of human community against the national divisions" - propanganda is "affirmation of human community"
 ### book "Scanners Live in Vain" - about tough process of gov reform
 > - "a psyop should be like the cranching wire" sounds like my view of "using cognitive biases to fight against cognitive biases" -> it's actually enlightening a human being's safe sense of "unknown" so that the "curiousity/exploring part" is triggered instead of the "flight/avoiding part"
+### "The Dead Lady of Clown own" & "The Ballad of Lost C'mell"
+- political uprising by psyops
+### "Telepathy" -> popular metaphor during when ppl thinks govs / super powers controlling ppls minds
+### psywar tool access - small & portable devices + long time support (radios in WW2, smart phones today, etc.)
+| WW2 Nazi | Today You-know-whos |
+| Falsified Stations | fake official accounts |
+| defeatist messages | hoax / misleading |
+| ghost programs when official off-air | bot accounts in void of official medias | 
+| "New British Broadcasting Company" aka fake BBC | "Post" aka fake "Times" |
+| microcelebrities aka influencers | microcelebrities aka influences (yeah same) |
+| chaotic, ever-changing set of commentatiors | "flood the zone" |
+
+```
+D**n, human beings' minds didn't really evolved since then lmao
+```
 
 ```
 These sci-fi novel writers are really fond of propaganda, or vise versa? lmao.
@@ -127,3 +142,9 @@ https://www.npr.org/2019/04/24/716374421/fact-check-russian-interference-went-fa
 ## Edward Lansdale
 ### Rufus Phillips' "boss"
 ### handed Rufus Phillips a copy of "Psychological Warfare"
+
+## William Joyce
+### born in US to Irish parents, moved to England, worked wiht British intel during Irish Independence War
+### Joined BUF in 1932
+### joined Nazi radio program _Germany Calling_
+### the last person to be executed for treason in the United Kingdom (lmao sweet karma)
