@@ -43,6 +43,7 @@ D**n, human beings' minds didn't really evolved since then lmao
 | the buddy          | Peer, friend, comrade-in-arms                                                                  | Builds trust, relatability, shared experience                       | USA: "I want you" posters                                                                 |
 | the newspaperman   | Informative, credile, fact-based, "neutral" in appearance                                      | legitimacy and authority, seemingly objective news, more believable | Nazi Germany: "Völkischer Beobachter"                                                     |
 
+(pending: adding connections between "roles" and "functionalities")
 
 ```
 These sci-fi novel writers are really fond of propaganda, or vise versa? lmao.
