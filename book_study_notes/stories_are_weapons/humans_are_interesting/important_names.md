@@ -44,6 +44,9 @@ D**n, human beings' minds didn't really evolved since then lmao
 | the newspaperman   | Informative, credile, fact-based, "neutral" in appearance                                      | viralization                      | legitimacy and authority, seemingly objective news, more believable | Nazi Germany: "Völkischer Beobachter"                                                     |
 
 (pending: adding connections between "roles" and "functionalities" - a psychological impose in their minds to think "xxx" as "mom, lover, ..." -> psychologial imposing?)
+### Propaganda should (nearly) be built on truth
+- my inferene: when news censored by gov / officials, it's time for the conspriacies -> it draws one propaganda and builts another reality -> coup with psywar ...) (question: which human being cognitive biases are utilized here) (PRC gov: censorship w/ propaganda distraction, so propaganda analysis could make ppl "think" and "focus / distract" -> making ppl think / not think sth)
+- Paul L: "it's the purpose that makes it propaganda - not T/F"
 
 ```
 These sci-fi novel writers are really fond of propaganda, or vise versa? lmao.
@@ -170,6 +173,7 @@ https://www.npr.org/2019/04/24/716374421/fact-check-russian-interference-went-fa
 ### joined Nazi radio program _Germany Calling_
 - The broadcasts always began with the announcer's words, "Germany calling, Germany calling, Germany calling". -> Typical "Dr Goebbels Style"? 
 ### the last person to be executed for treason in the United Kingdom (lmao sweet karma)
+### "America's Lord Haw-Haw"
 
 ## Oswald Mosley
 ### Founded BUF in 1932
