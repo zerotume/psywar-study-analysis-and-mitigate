@@ -47,6 +47,11 @@ D**n, human beings' minds didn't really evolved since then lmao
 ### Propaganda should (nearly) be built on truth
 - my inferene: when news censored by gov / officials, it's time for the conspriacies -> it draws one propaganda and builts another reality -> coup with psywar ...) (question: which human being cognitive biases are utilized here) (PRC gov: censorship w/ propaganda distraction, so propaganda analysis could make ppl "think" and "focus / distract" -> making ppl think / not think sth)
 - Paul L: "it's the purpose that makes it propaganda - not T/F"
+### Connections between psywar and Bomb (book "Mother Hilton's Littul Kittons")
+### "An endless process which is called by the nick name of brainwashing" -> CCP interrogators
+
+## Rosana Hart
+### Paul Linbarger's daughter, "It was like He (Linebarger) was trying to explain how the world works, pain and tragedy"
 
 ```
 These sci-fi novel writers are really fond of propaganda, or vise versa? lmao.
@@ -177,3 +182,40 @@ https://www.npr.org/2019/04/24/716374421/fact-check-russian-interference-went-fa
 
 ## Oswald Mosley
 ### Founded BUF in 1932
+
+## Frances Stonor Saunders
+### book "The Cultural Cold War" -> CIA found way into arts agencies against Soviet
+
+## Jackson Pollock
+### CIA funded abstract expressionist, has splatterpaint, affront to Soviet realist aesthetic
+
+## Audra Wolfe
+### book "Freedom's Laboratory" -> about CIA turning CN scientists into US sympathizers
+
+## Mark Jacobson
+### book "Minds Then Hearts" :"When fored ot choose between leaflets, laudspeakers and firepower [during the Korean War] operational leaders chose firepower"
+
+## Edward Huner
+### on "Miami Daily News", saying "Brainwashing / XiNao forcing Chinese into Ranks of CCP"
+### article: "Red China: The Calculated Destruction of Men's Minds"
+- (man, it's a far more complicated term and system than that ...)
+### "ambiguous relationship" with CIA (maybe used this rumars to boost sales)
+### attempted to say he had introduced the term "brainwashing" lmao
+
+## Joost A. M.Meerloo
+### book: "The Rape of the Mind: he Psychology of Thought Control, Menticide, and Brainwashing"
+
+## E. Merrill Root
+### book: "Brain Washing in the High Schools"
+
+## J. Edgar Hoover
+### Former FBI director
+### book: "Masters of Deceit: The Story of Communism in America and How to Fight It"
+
+```
+Why were you guys using a serious psychological term as a trigger key for culture war and boosting sales ..
+Using academic terms propaganda in propagandas lmao.
+Brainwash -> Woke Mind Virus
+lmao
+and human beings uses this to blame each others instead of finding out how to mitigate it ...
+```
